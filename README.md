@@ -38,9 +38,16 @@ Two different possibilities for exogenous intervetions:
 
 ![Normal Vaccine Diagram](./diagrams/normal.png)
 
+Results: 
+![Normal Vaccine Results](./results/zombies_apocalypse_vaccine_normal.png)
+
+
 2 - (New or different) Vaccine/Intervention: every vaccine_period time steps, to modify the effectivenss or ratio of L,Z interaction converting humans into zombies. --> this version seems to be more realistic in terms of interaction.
 
 ![Modifying Gamma Diagram](./diagrams/modifying_infection_rate.png)
+
+Results: 
+![Vaccine modifying paramter results](./results/zombies_apocalypse_vaccine.png)
 
 Comparisons: plots show both the model with and without interventions.
 
