@@ -36,7 +36,11 @@ Two different possibilities for exogenous intervetions:
 
 1 - (Normal)Vaccine/Intervention: every vaccine_period time steps, 10% of the zombie population is removed instantly, like a Dirac delta impulse.
 
+![Normal Vaccine Diagram](./diagrams/normal.png)
+
 2 - (New or different) Vaccine/Intervention: every vaccine_period time steps, to modify the effectivenss or ratio of L,Z interaction converting humans into zombies. --> this version seems to be more realistic in terms of interaction.
+
+![Modifying Gamma Diagram](./diagrams/modifying_infection_rate.png)
 
 Comparisons: plots show both the model with and without interventions.
 
