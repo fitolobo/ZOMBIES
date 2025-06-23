@@ -112,9 +112,7 @@ Tocaria analizar los casos $(\hat{Z},\hat{M},\hat{C})$ coexistencia; $(0,\hat{M}
 
 2 - Para $\hat{M}=\dfrac{E\beta_{CZ}}{\beta \beta_{CZ}+\beta_{MZ}(\alpha-\beta-E))}$ consideramos que $\alpha \geq \beta + E$ se mantiene asi no lidiamos con valores negativos.
 
-3 - Para $
-\hat{C}=\dfrac{\gamma_{MZ}-\beta_{MZ}}{\beta_{CZ}-\epsilon_{CZ}}
-$ es el caso delicado, aqui $\gamma_{MZ}\geq \beta_{MZ}$ y $\beta_{CZ}>\epsilon_{CZ}$ para tener sentido biológico.
+3 - Para $\hat{C}=\dfrac{\gamma_{MZ}-\beta_{MZ}}{\beta_{CZ}-\epsilon_{CZ}}$ es el caso delicado, aqui $\gamma_{MZ}\geq \beta_{MZ}$ y $\beta_{CZ}>\epsilon_{CZ}$ para tener sentido biológico.
 
 # Jacobiano
 
