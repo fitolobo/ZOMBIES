@@ -102,9 +102,7 @@ Del análisis $\frac{dC}{dt} = 0$, $\frac{dZ}{dt}=0$, $\frac{dM}{dt} =0$ es posi
 
 3 - Si $\rho \beta \beta_{CZ}\rightarrow 0$ entonces: 
 
-$
-\hat{C}=\dfrac{\gamma_{MZ}-\beta_{MZ}}{\beta_{CZ}-\epsilon_{CZ}}
-$
+$\hat{C}=\dfrac{\gamma_{MZ}-\beta_{MZ}}{\beta_{CZ}-\epsilon_{CZ}}$
 
 Tocaria analizar los casos $(\hat{Z},\hat{M},\hat{C})$ coexistencia; $(0,\hat{M},\hat{C})$ supremacia; $(\hat{Z},0,0)$ exitinción. Estos casos solo tienen sentido si las poblaciones toman valores positivos. Los casos son: 
 
